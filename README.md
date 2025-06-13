@@ -1,9 +1,9 @@
 # Crime Record Management System (SQL Project)
 
-## 📌 Description
+##  Description
 This project manages criminal records, FIRs, and case investigations using SQL. It includes officers, criminals, FIRs, and case tracking.
 
-## 🧱 Database Structure
+## Database Structure
 
 - **Officers**: Officer details (ID, name, rank, department)
 - **Criminals**: Criminal details (ID, name, age, gender, crime)
@@ -11,17 +11,17 @@ This project manages criminal records, FIRs, and case investigations using SQL. 
 - **Cases**: Case status and timeline (open/closed)
 - **CaseUpdates**: Updates made to each case by officers
 
-## 🧪 Sample Queries
+## Sample Queries
 - Open cases with `NULL` close date handled using `IFNULL()`
 - Case updates with officer names using `JOIN`
 - FIRs with officer and criminal names
 - Total cases filed by each officer
 
-## 🚀 How to Run
+##  How to Run
 Use any MySQL-compatible SQL execution environment. Remove `CREATE DATABASE` and `USE` lines if your platform doesn’t support them.
 
-## 👤 Author
-**Bharath Kumar**  
+##  Author
+**Nikhitha**  
 Final Year B.Tech | Computer Science & AI  
-📧 bharathma10@gmail.com  
-📍 Hindupur, Andhra Pradesh  
+nikhithak1705@gmail.com  
+
